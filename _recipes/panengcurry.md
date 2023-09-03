@@ -28,13 +28,10 @@ favorite: ✓
 
 ---
 
-Guck
-
 - 4 klyftor vitlök
 - 3 msk röd curry-pasta
 - Kaffir-limeblad
 - Hackad chilli
-
 
 > Finhacka vitlöken och stek tillsammans med currypastan i ett par minuter.
 > Använd en wok eller kastrull, inte stekpanna, eftersom det blir ganska mycket.
