@@ -13,7 +13,8 @@ vegan: ✓
 - 9 dl mjöl (blanda vete, råg och havregryn)
 
 > ### Kvällen innan
-> Blanda ihop allt, degen ska vara kladdig. Låt jäsa i kylen över natten.
+> Blanda ihop allt, knåda, och låt jäsa i kylen över natten.
+> Det gör inget om degen är kladdig.
 
 ---
 
