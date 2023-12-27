@@ -340,10 +340,13 @@ hr {
     width: 100%;
     border-top: 1px solid var(--horizontal-rule);  /* using a border instead of background color to circument no-background-colors print settings */
 }
-.recipe hr {
+.recipe hr:has(+ul) {
     counter-increment: step;
     margin-bottom: -2.4em;
     clear: right;  /* fix for long descriptions pushing across the hr in firefox */
+}
+.recipe hr:has(+p) {
+    display: none;
 }
 .recipe hr + hr {  /* in case there is a leading hr in the document in addition to the hardcoded one */
     display: none;
@@ -407,7 +410,7 @@ hr {
 code {
     font-family: var(--sans);
 }
-blockquote {
+blockquote, hr + p {
     font-family: var(--serif);
 }
 blockquote img {

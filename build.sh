@@ -1,7 +1,5 @@
 #!/usr/bin/env bash
 
-TIME_START=$(date +%s)
-
 # exit on errors
 set -e
 
@@ -166,8 +164,3 @@ done
 echo "]" >> _temp/search.json
 x cp -r _temp/search.json _site/
 
-TIME_END=$(date +%s)
-TIME_TOTAL=$((TIME_END-TIME_START))
-
-EMOJI="🍇🍈🍉🍊🍋🍌🍍🥭🍎🍏🍐🍑🍒🍓🥝🍅🥥🥑🍆🥔🥕🌽🌶️🥒🥬🥦"
-status "All done after $TIME_TOTAL seconds!" "${EMOJI:RANDOM%${#EMOJI}:1}"
