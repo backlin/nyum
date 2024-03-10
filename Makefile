@@ -31,6 +31,9 @@ _temp/%.category.txt: _recipes/%.md
 		--template _templates/technical/category.template.txt \
 		-t html -o '$@'
 
+_temp/%.category.json: _temp/%.category.txt
+	
+
 _temp/%.metadata.json: _recipes/%.md
 	pandoc '$<' \
 		--metadata htmlfile='$(basename $<).html' \
