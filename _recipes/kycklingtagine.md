@@ -11,48 +11,50 @@ image: kycklingtagine.jpg
 
 - 1 kyckling
 - 5 klyftor vitlök, finhackade
-- 0.25 tsk saffran
-- 0.5 tsk torkad malen ingefära
-- 1 tsk paprikapulver
-- 0.5 tsk malen spiskummin
-- 0.5 tsk gurkmeja
+- 1 paket saffran
+- 1 tsk torkad malen ingefära
+- 2 tsk paprikapulver
+- 1 tsk malen spiskummin
+- 1 tsk gurkmeja
 - 0.5 tsk salt
 - Peppar
 
-> Dela kyckling i lagom bitar, 8–10 st.
+> Dela kyckling i lagom bitar.
 >
 > Blanda rubben och rubba kycklingen. Ställ i kylen 3–4 h.
 
 ---
 
-- Olja att steka i
-- 3 gula lökar, skivade tunt
-- 1 kanelstång
-- 8 Kalamata-oliver
-- 8 gröna oliver, "cracked" om du har
+- Olja
 
-> Bryn kycklingen på alla sidor och lägg på ett fat.
->
-> Sänk temperaturen och stek försiktigt i 15 minuter, så den blir glansig men inte får färg.
->
-> Lägg tillbaka kycklingen, kanelstång och oliver.
+> Bryn kycklingen i en gjutjärnsgryuta på alla sidor och lägg på ett fat.
 
 ---
 
-- 1 inlagd citron
+- 3 gula lökar
+- Valfritt annat, t.ex. selleri, morot, chili
+- 1 kanelstång
+
+> Skiva löken tunt. Finhacka valfria ingredienser.
+>
+> Sänk temperaturen och stek försiktigt så löken blir glansig men inte får färg (15 minuter). 
+
+---
+
+- 16 gröna oliver
+- 0.5 inlagd citron, skivad tunt
 - Juicen från 0.5 citron
 - 2.5 dl kycklingfond
+- Ris
 
-> Kvarta den inlagda citronen. Ta bort fruktköttet, strimla skalet tunnt, och strö över kycklingen.
+> Lägg kyckling, oliver, citron och vätska i grytan och sjud under lock 30 min.
 >
-> Bland citron-juice och fond och häll över kyckligen.
+> Koka ris under tiden.
 
 ---
 
 - Persilja
-- Ris
+- Bladspenat
 
-> Lägg på lock och koka på låg värme i 30 minuter. Koka ris under tiden.
->
-> Strö hackad persilja över vid serviering.
+> Strö hackad persilja över kycklingen och servera med ris och bladspenat.
 
